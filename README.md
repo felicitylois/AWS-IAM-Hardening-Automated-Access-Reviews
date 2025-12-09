@@ -1,10 +1,10 @@
 # 🕵🏻 AWS-IAM-Hardening-Automated-Access-Reviews
 Hardened AWS IAM for a fast-growing startup by implementing least privilege, MFA, and automated access reviews. Built scripts, dashboards, and audit-ready reports to secure cloud access.
 
-# 🛡️ Role
+## 🛡️ Role
 Cloud Security Engineer
 
-# 🛠 Tools Used
+## 🛠 Tools Used
 - **AWS IAM / AWS SSO** – Centralized identity management and role-based access control
 - **AWS CLI / Boto3 (Python)** – Scripting and automation of access reviews
 - **AWS CloudTrail** – Monitoring user and role activity
@@ -12,7 +12,7 @@ Cloud Security Engineer
 - **AWS CloudWatch / QuickSight** – Dashboards for reporting and visibility
 - **SNS / Slack Webhooks** – Notifications for access review approvals
 
-# 🌐 AWS IAM Audit & Access Review Table
+## 🌐 AWS IAM Audit & Access Review Table
 Audit-focused AWS IAM table showing users, roles, policies, MFA, last activity, and risk levels. Highlights least privilege enforcement, account hygiene, and automated access review practices.
 
 | #  | Team / Function     | Role / User            | IAM Policy / Permission Level     | Privilege Level | MFA Status       | Last Used            | Access Key Age | Risk Level | Findings / Issues      | Remediation Status           |
